@@ -2,7 +2,7 @@
     <img src="moveit.png" />
 </h1>
 <p align="center">
-	move.it is an app with the goal of helping people to mantain their body health while working, by doing breaks every 25 minutes to stretch and move their bodies. Developed during Rocketseat's #4 Next Level Week.
+	Move.it is an app with the goal of helping people to mantain their body health while working, by doing breaks every 25 minutes to stretch and move their bodies. Developed during Rocketseat's #4 Next Level Week.
 	<br>
   Deployed <a href="https://moveit-amanda-santos.vercel.app/">here</a>.
 </p>
