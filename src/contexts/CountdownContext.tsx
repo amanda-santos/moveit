@@ -28,7 +28,7 @@ export function CountdownProvider({ children }: CountdownProviderProps) {
   const { startNewChallenge } = useContext(ChallengesContext);
 
   // 25 minutos em segundos
-  const [time, setTime] = useState(0.1 * 60);
+  const [time, setTime] = useState(25 * 60);
 
   // countdown ativo/inativo => rodando ou não
   const [isActive, setIsActive] = useState(false);
