@@ -7,9 +7,12 @@ export function Profile() {
 
   return (
     <div className={styles.profileContainer}>
-      <img src="https://github.com/amanda-santos.png" alt="Amanda Santos" />
+      <img
+        src="https://avatars.dicebear.com/api/avataaars/moveit.svg?top[]=longHair&topChance=100&hairColor[]=black&eyes[]=default&eyebrow[]=default&mouth[]=smile&skin[]=brown"
+        alt="Zoey Collins"
+      />
       <div>
-        <strong>Amanda Santos</strong>
+        <strong>Zoey Collins</strong>
         <p>
           <img src="icons/level.svg" alt="Level" />
           Level {level}
